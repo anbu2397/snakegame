@@ -15,6 +15,13 @@ Collision Detection: Prevent the snake from colliding with the boundaries of the
 Game Over : When the snake collides with a boundary or its own tail, the game ends. 
 
 This repository contains the complete source code of the Snake Game, along with any required dependencies and resources. You can clone the repository to your local machine, explore the code, and run the game on your Java development environment.
+
+Project images
+
+
 ![image](https://github.com/anbu2397/snakegame/assets/111657570/55dfe0eb-3b68-4680-8c8e-24ed3de46a05)
+
+
+
 ![image](https://github.com/anbu2397/snakegame/assets/111657570/e9d90c3f-e747-41e1-bcef-852732b224c7)
 
